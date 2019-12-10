@@ -1,0 +1,241 @@
+
+#space-questions {
+    position: absolute; /* Sit on top of the page content */
+    padding: 0px 18px;
+    overflow: hidden;
+    background-color: rgba(0, 0, 0, 0.4);
+    max-height: 0;
+    transition: max-height 0.4s ease-in;
+    width: 100%;
+    z-index: 2;
+}
+
+.question-popout p {
+    padding: 15px 10px;
+    color: #fff;
+}
+
+.collapsible {
+    background-color: rgba(255, 196, 0, 0.4);
+    color: #fff;
+    cursor: pointer;
+    border: none;
+    text-align: center;
+    outline: none;
+    text-decoration: none;
+    display: inline-block;
+    position: absolute;
+    z-index: 3;
+}
+
+.collapsible i {
+    opacity: 1;
+}
+
+.round {
+    border-radius: 30px;
+}
+
+@media only screen and (max-width: 1400px) {
+    #space-questions {
+        top: 85%; 
+    }
+    #space-questions p {
+        width: 1071px;
+    }
+
+    .collapsible { 
+        font-size: 200%;
+        padding: 1% 2%;
+        top: 120px;
+        left: 90%;
+    }
+}
+@media only screen and (max-width: 1366px) {
+    #space-questions {
+        top: 70% !important; 
+    }
+    #space-questions p {
+        width: 1000px !important;
+        font-size: 2.1rem !important;
+    }
+
+    .collapsible { 
+        font-size: 250%;
+        padding: 0.5% 1.5%;
+        top: 120px;
+        left: 90%;
+    }
+}
+
+@media only screen and (max-width: 1024px) {
+    #space-questions {
+        top: 50% !important; 
+    }
+    #space-questions p {
+        width: 850px !important;
+        font-size: 2rem !important;
+    }
+}
+
+@media only screen and (max-width: 823px) {
+    #space-questions {
+        top: 80% !important; 
+    }
+    #space-questions p {
+        width: 728px !important;
+        font-size: 1.2rem !important;
+    }
+
+    .collapsible { 
+        
+        top: 99px !important;
+    }
+
+}
+
+
+@media only screen and (max-width: 812px) {
+    #space-questions p {
+        width: 667px !important;
+        font-size: 1.1rem !important;
+    }
+
+    .collapsible { 
+        font-size: 250%;
+        padding: 0.5% 1.7%;
+        top: 105px;
+        left: 83%;
+    }
+
+}
+
+@media only screen and (max-height: 768px) {
+    #space-questions {
+        top: 75% !important; 
+    }
+}
+
+@media only screen and (max-width: 768px) {
+    #space-questions {
+        top: 52% !important; 
+    }
+    #space-questions p {
+        width: 650px !important;
+        font-size: 2rem !important;
+    }
+
+    .collapsible { 
+        font-size: 250%;
+        padding: 0.5% 1.7%;
+        top: 120px;
+        left: 88%;
+    }
+
+}
+
+@media only screen and (max-width: 736px) {
+    #space-questions {
+        top: 76% !important; 
+    }
+    #space-questions p {
+        width: 575px !important;
+        font-size: 1.1rem !important;
+    }
+
+    .collapsible { 
+        font-size: 200% !important;
+        padding: 0.5% 1.7%;
+        top: 120px;
+        left: 88% !important;
+    }
+
+}
+
+@media only screen and (max-width: 640px) {
+    #space-questions p {
+        width: 559px !important;
+    }
+
+    .collapsible { 
+        
+    }
+
+}
+
+@media only screen and (max-width: 568px) {
+    #space-questions p {
+        width: 535px !important;
+    }
+
+    .collapsible { 
+        top: 92px !important;
+        font-size: 160% !important;
+    }
+
+    .question-popout p {
+        font-size: 12px;
+    }
+
+}
+
+@media only screen and (max-width: 414px) {
+    #space-questions {
+        top: 45% !important; 
+    }
+    #space-questions p {
+        width: 379px !important;
+        font-size: 2rem !important;
+    }
+
+    .collapsible { 
+        font-size: 100% !important;
+        padding: 0.5% 1.7%;
+        top: 90px;
+        left: 88% !important;
+    }
+
+}
+
+@media only screen and (max-width: 375px) {
+    #space-questions {
+        top: 46% !important;
+    }
+    #space-questions p {
+        width: 335px !important;
+        font-size: 1.5rem !important
+    }
+
+    .collapsible { 
+        font-size: 150%;
+        padding: 0.5% 1.9%;
+        top: 90px;
+        left: 84%;
+    }
+
+    .question-popout p {
+        font-size: 12px;
+    }
+
+}
+
+@media only screen and (max-width: 320px) {
+    #space-questions {
+        top: 48% !important;
+    }
+    #space-questions p {
+        width: 294px !important;
+        font-size: 1.1rem !important;
+    }
+
+    .collapsible { 
+        
+        left: 86% !important;
+    }
+
+    .question-popout p {
+        font-size: 12px;
+    }
+
+}
+

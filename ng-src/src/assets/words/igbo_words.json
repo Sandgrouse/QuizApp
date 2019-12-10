@@ -1,0 +1,4004 @@
+{
+ "igbo": [
+  {
+   "word": "dị ka",
+   "in_english": "as"
+  },
+  {
+   "word": "m",
+   "in_english": "I"
+  },
+  {
+   "word": "ya",
+   "in_english": "his"
+  },
+  {
+   "word": "na",
+   "in_english": "that"
+  },
+  {
+   "word": "enye",
+   "in_english": "he"
+  },
+  {
+   "word": "bụ",
+   "in_english": "was"
+  },
+  {
+   "word": "n’ihi na",
+   "in_english": "for"
+  },
+  {
+   "word": "ụfọdụ",
+   "in_english": "on"
+  },
+  {
+   "word": "ma ọ bụrụ na",
+   "in_english": "are"
+  },
+  {
+   "word": "ọrụ",
+   "in_english": "with"
+  },
+  {
+   "word": "ha",
+   "in_english": "they"
+  },
+  {
+   "word": "ịbụ",
+   "in_english": "be"
+  },
+  {
+   "word": "na",
+   "in_english": "at"
+  },
+  {
+   "word": "otu",
+   "in_english": "one"
+  },
+  {
+   "word": "nwere",
+   "in_english": "have"
+  },
+  {
+   "word": "a",
+   "in_english": "this"
+  },
+  {
+   "word": "si",
+   "in_english": "from"
+  },
+  {
+   "word": "site",
+   "in_english": "by"
+  },
+  {
+   "word": "na-ekpo ọkụ",
+   "in_english": "hot"
+  },
+  {
+   "word": "okwu",
+   "in_english": "word"
+  },
+  {
+   "word": "ma",
+   "in_english": "but"
+  },
+  {
+   "word": "ihe",
+   "in_english": "what"
+  },
+  {
+   "word": "ụfọdụ",
+   "in_english": "some"
+  },
+  {
+   "word": "bụ",
+   "in_english": "is"
+  },
+  {
+   "word": "ya",
+   "in_english": "it"
+  },
+  {
+   "word": "ị",
+   "in_english": "you"
+  },
+  {
+   "word": "ma ọ bụ",
+   "in_english": "or"
+  },
+  {
+   "word": "nwere",
+   "in_english": "had"
+  },
+  {
+   "word": "na",
+   "in_english": "the"
+  },
+  {
+   "word": "nke",
+   "in_english": "of"
+  },
+  {
+   "word": "na-",
+   "in_english": "to"
+  },
+  {
+   "word": "na",
+   "in_english": "and"
+  },
+  {
+   "word": "a",
+   "in_english": "a"
+  },
+  {
+   "word": "na",
+   "in_english": "in"
+  },
+  {
+   "word": "anyị",
+   "in_english": "we"
+  },
+  {
+   "word": "ike",
+   "in_english": "can"
+  },
+  {
+   "word": "si",
+   "in_english": "out"
+  },
+  {
+   "word": "ọzọ",
+   "in_english": "other"
+  },
+  {
+   "word": "ndị",
+   "in_english": "were"
+  },
+  {
+   "word": "nke",
+   "in_english": "which"
+  },
+  {
+   "word": "eme",
+   "in_english": "do"
+  },
+  {
+   "word": "ha",
+   "in_english": "their"
+  },
+  {
+   "word": "oge",
+   "in_english": "time"
+  },
+  {
+   "word": "ma ọ bụrụ na",
+   "in_english": "if"
+  },
+  {
+   "word": "ekpe",
+   "in_english": "will"
+  },
+  {
+   "word": "otú",
+   "in_english": "how"
+  },
+  {
+   "word": "kwuru",
+   "in_english": "said"
+  },
+  {
+   "word": "ihe",
+   "in_english": "an"
+  },
+  {
+   "word": "ọ bụla",
+   "in_english": "each"
+  },
+  {
+   "word": "ịgwa",
+   "in_english": "tell"
+  },
+  {
+   "word": "ke",
+   "in_english": "does"
+  },
+  {
+   "word": "set",
+   "in_english": "set"
+  },
+  {
+   "word": "atọ",
+   "in_english": "three"
+  },
+  {
+   "word": "chọrọ",
+   "in_english": "want"
+  },
+  {
+   "word": "ikuku",
+   "in_english": "air"
+  },
+  {
+   "word": "ọma",
+   "in_english": "well"
+  },
+  {
+   "word": "na-",
+   "in_english": "also"
+  },
+  {
+   "word": "igwu egwu",
+   "in_english": "play"
+  },
+  {
+   "word": "obere",
+   "in_english": "small"
+  },
+  {
+   "word": "njedebe",
+   "in_english": "end"
+  },
+  {
+   "word": "tinye",
+   "in_english": "put"
+  },
+  {
+   "word": "n’ụlọ",
+   "in_english": "home"
+  },
+  {
+   "word": "na-agụ",
+   "in_english": "read"
+  },
+  {
+   "word": "aka",
+   "in_english": "hand"
+  },
+  {
+   "word": "ọdụ ụgbọ mmiri",
+   "in_english": "port"
+  },
+  {
+   "word": "nnukwu",
+   "in_english": "large"
+  },
+  {
+   "word": "asụpe",
+   "in_english": "spell"
+  },
+  {
+   "word": "tinye",
+   "in_english": "add"
+  },
+  {
+   "word": "ọbụna",
+   "in_english": "even"
+  },
+  {
+   "word": "ala",
+   "in_english": "land"
+  },
+  {
+   "word": "ebe a",
+   "in_english": "here"
+  },
+  {
+   "word": "ana",
+   "in_english": "must"
+  },
+  {
+   "word": "nnukwu",
+   "in_english": "big"
+  },
+  {
+   "word": "elu",
+   "in_english": "high"
+  },
+  {
+   "word": "dị",
+   "in_english": "such"
+  },
+  {
+   "word": "na-eso",
+   "in_english": "follow"
+  },
+  {
+   "word": "eme",
+   "in_english": "act"
+  },
+  {
+   "word": "ya mere",
+   "in_english": "why"
+  },
+  {
+   "word": "ịjụ",
+   "in_english": "ask"
+  },
+  {
+   "word": "ndị ikom",
+   "in_english": "men"
+  },
+  {
+   "word": "mgbanwe",
+   "in_english": "change"
+  },
+  {
+   "word": "wee",
+   "in_english": "went"
+  },
+  {
+   "word": "ìhè",
+   "in_english": "light"
+  },
+  {
+   "word": "ụdị",
+   "in_english": "kind"
+  },
+  {
+   "word": "anya",
+   "in_english": "off"
+  },
+  {
+   "word": "mkpa",
+   "in_english": "need"
+  },
+  {
+   "word": "ụlọ",
+   "in_english": "house"
+  },
+  {
+   "word": "foto",
+   "in_english": "picture"
+  },
+  {
+   "word": "na-agbalị",
+   "in_english": "try"
+  },
+  {
+   "word": "anyị",
+   "in_english": "us"
+  },
+  {
+   "word": "ọzọ",
+   "in_english": "again"
+  },
+  {
+   "word": "anụmanụ",
+   "in_english": "animal"
+  },
+  {
+   "word": "ebe",
+   "in_english": "point"
+  },
+  {
+   "word": "nne",
+   "in_english": "mother"
+  },
+  {
+   "word": "ụwa",
+   "in_english": "world"
+  },
+  {
+   "word": "nso",
+   "in_english": "near"
+  },
+  {
+   "word": "ewu",
+   "in_english": "build"
+  },
+  {
+   "word": "onwe",
+   "in_english": "self"
+  },
+  {
+   "word": "ụwa",
+   "in_english": "earth"
+  },
+  {
+   "word": "nna",
+   "in_english": "father"
+  },
+  {
+   "word": "ọ bụla",
+   "in_english": "any"
+  },
+  {
+   "word": "ọhụrụ",
+   "in_english": "new"
+  },
+  {
+   "word": "ọrụ",
+   "in_english": "work"
+  },
+  {
+   "word": "akụkụ",
+   "in_english": "part"
+  },
+  {
+   "word": "nara",
+   "in_english": "take"
+  },
+  {
+   "word": "nweta",
+   "in_english": "get"
+  },
+  {
+   "word": "ebe",
+   "in_english": "place"
+  },
+  {
+   "word": "mere",
+   "in_english": "made"
+  },
+  {
+   "word": "ndụ",
+   "in_english": "live"
+  },
+  {
+   "word": "ebe",
+   "in_english": "where"
+  },
+  {
+   "word": "mgbe",
+   "in_english": "after"
+  },
+  {
+   "word": "azụ",
+   "in_english": "back"
+  },
+  {
+   "word": "obere",
+   "in_english": "little"
+  },
+  {
+   "word": "naanị",
+   "in_english": "only"
+  },
+  {
+   "word": "gburugburu",
+   "in_english": "round"
+  },
+  {
+   "word": "nwoke",
+   "in_english": "man"
+  },
+  {
+   "word": "afọ",
+   "in_english": "year"
+  },
+  {
+   "word": "wee",
+   "in_english": "came"
+  },
+  {
+   "word": "izi",
+   "in_english": "show"
+  },
+  {
+   "word": "ọ bụla",
+   "in_english": "every"
+  },
+  {
+   "word": "mma",
+   "in_english": "good"
+  },
+  {
+   "word": "m",
+   "in_english": "me"
+  },
+  {
+   "word": "nye",
+   "in_english": "give"
+  },
+  {
+   "word": "anyị",
+   "in_english": "our"
+  },
+  {
+   "word": "n’okpuru",
+   "in_english": "under"
+  },
+  {
+   "word": "aha",
+   "in_english": "name"
+  },
+  {
+   "word": "nnọọ",
+   "in_english": "very"
+  },
+  {
+   "word": "site na",
+   "in_english": "through"
+  },
+  {
+   "word": "dị nnọọ",
+   "in_english": "just"
+  },
+  {
+   "word": "ụdị",
+   "in_english": "form"
+  },
+  {
+   "word": "ikpe",
+   "in_english": "sentence"
+  },
+  {
+   "word": "akwa",
+   "in_english": "great"
+  },
+  {
+   "word": "chere",
+   "in_english": "think"
+  },
+  {
+   "word": "na-ekwu",
+   "in_english": "say"
+  },
+  {
+   "word": "aka",
+   "in_english": "help"
+  },
+  {
+   "word": "ala",
+   "in_english": "low"
+  },
+  {
+   "word": "akara",
+   "in_english": "line"
+  },
+  {
+   "word": "iche",
+   "in_english": "differ"
+  },
+  {
+   "word": "N’aka",
+   "in_english": "turn"
+  },
+  {
+   "word": "kpatara",
+   "in_english": "cause"
+  },
+  {
+   "word": "ukwuu",
+   "in_english": "much"
+  },
+  {
+   "word": "pụtara",
+   "in_english": "mean"
+  },
+  {
+   "word": "n’ihu",
+   "in_english": "before"
+  },
+  {
+   "word": "nkwaghari",
+   "in_english": "move"
+  },
+  {
+   "word": "nri",
+   "in_english": "right"
+  },
+  {
+   "word": "nwa",
+   "in_english": "boy"
+  },
+  {
+   "word": "ochie",
+   "in_english": "old"
+  },
+  {
+   "word": "oke",
+   "in_english": "too"
+  },
+  {
+   "word": "otu",
+   "in_english": "same"
+  },
+  {
+   "word": "ọ",
+   "in_english": "she"
+  },
+  {
+   "word": "niile",
+   "in_english": "all"
+  },
+  {
+   "word": "n’ebe ahụ",
+   "in_english": "there"
+  },
+  {
+   "word": "mgbe",
+   "in_english": "when"
+  },
+  {
+   "word": "elu",
+   "in_english": "up"
+  },
+  {
+   "word": "iji",
+   "in_english": "use"
+  },
+  {
+   "word": "gị",
+   "in_english": "your"
+  },
+  {
+   "word": "ụzọ",
+   "in_english": "way"
+  },
+  {
+   "word": "banyere",
+   "in_english": "about"
+  },
+  {
+   "word": "ọtụtụ",
+   "in_english": "many"
+  },
+  {
+   "word": "mgbe ahụ",
+   "in_english": "then"
+  },
+  {
+   "word": "ha",
+   "in_english": "them"
+  },
+  {
+   "word": "dee",
+   "in_english": "write"
+  },
+  {
+   "word": "ga-",
+   "in_english": "would"
+  },
+  {
+   "word": "dị ka",
+   "in_english": "like"
+  },
+  {
+   "word": "otú",
+   "in_english": "so"
+  },
+  {
+   "word": "ndị a",
+   "in_english": "these"
+  },
+  {
+   "word": "ya",
+   "in_english": "her"
+  },
+  {
+   "word": "ogologo",
+   "in_english": "long"
+  },
+  {
+   "word": "eme ka",
+   "in_english": "make"
+  },
+  {
+   "word": "ihe",
+   "in_english": "thing"
+  },
+  {
+   "word": "ịhụ",
+   "in_english": "see"
+  },
+  {
+   "word": "ya",
+   "in_english": "him"
+  },
+  {
+   "word": "abụọ",
+   "in_english": "two"
+  },
+  {
+   "word": "nwere",
+   "in_english": "has"
+  },
+  {
+   "word": "anya",
+   "in_english": "look"
+  },
+  {
+   "word": "ọzọ",
+   "in_english": "more"
+  },
+  {
+   "word": "ụbọchị",
+   "in_english": "day"
+  },
+  {
+   "word": "ike",
+   "in_english": "could"
+  },
+  {
+   "word": "aga",
+   "in_english": "go"
+  },
+  {
+   "word": "bịa",
+   "in_english": "come"
+  },
+  {
+   "word": "mere",
+   "in_english": "did"
+  },
+  {
+   "word": "ọnụ ọgụgụ",
+   "in_english": "number"
+  },
+  {
+   "word": "ada",
+   "in_english": "sound"
+  },
+  {
+   "word": "mba",
+   "in_english": "no"
+  },
+  {
+   "word": "kacha",
+   "in_english": "most"
+  },
+  {
+   "word": "ndị mmadụ",
+   "in_english": "people"
+  },
+  {
+   "word": "m",
+   "in_english": "my"
+  },
+  {
+   "word": "n’elu",
+   "in_english": "over"
+  },
+  {
+   "word": "mara",
+   "in_english": "know"
+  },
+  {
+   "word": "mmiri",
+   "in_english": "water"
+  },
+  {
+   "word": "karịa",
+   "in_english": "than"
+  },
+  {
+   "word": "oku",
+   "in_english": "call"
+  },
+  {
+   "word": "mbụ",
+   "in_english": "first"
+  },
+  {
+   "word": "onye",
+   "in_english": "who"
+  },
+  {
+   "word": "ike",
+   "in_english": "may"
+  },
+  {
+   "word": "ala",
+   "in_english": "down"
+  },
+  {
+   "word": "n’akụkụ",
+   "in_english": "side"
+  },
+  {
+   "word": "kemgbe",
+   "in_english": "been"
+  },
+  {
+   "word": "ugbu a",
+   "in_english": "now"
+  },
+  {
+   "word": "ịchọta",
+   "in_english": "find"
+  },
+  {
+   "word": "isi",
+   "in_english": "head"
+  },
+  {
+   "word": "eguzo",
+   "in_english": "stand"
+  },
+  {
+   "word": "aka",
+   "in_english": "own"
+  },
+  {
+   "word": "peeji nke",
+   "in_english": "page"
+  },
+  {
+   "word": "kwesịrị",
+   "in_english": "should"
+  },
+  {
+   "word": "obodo",
+   "in_english": "country"
+  },
+  {
+   "word": "hụrụ",
+   "in_english": "found"
+  },
+  {
+   "word": "azịza",
+   "in_english": "answer"
+  },
+  {
+   "word": "ụlọ akwụkwọ",
+   "in_english": "school"
+  },
+  {
+   "word": "na-eto",
+   "in_english": "grow"
+  },
+  {
+   "word": "ọmụmụ",
+   "in_english": "study"
+  },
+  {
+   "word": "ka",
+   "in_english": "still"
+  },
+  {
+   "word": "ịmụta",
+   "in_english": "learn"
+  },
+  {
+   "word": "osisi",
+   "in_english": "plant"
+  },
+  {
+   "word": "mkpuchi",
+   "in_english": "cover"
+  },
+  {
+   "word": "nri",
+   "in_english": "food"
+  },
+  {
+   "word": "anyanwụ",
+   "in_english": "sun"
+  },
+  {
+   "word": "anọ",
+   "in_english": "four"
+  },
+  {
+   "word": "n’etiti",
+   "in_english": "between"
+  },
+  {
+   "word": "ala",
+   "in_english": "state"
+  },
+  {
+   "word": "na-",
+   "in_english": "keep"
+  },
+  {
+   "word": "anya",
+   "in_english": "eye"
+  },
+  {
+   "word": "mgbe",
+   "in_english": "never"
+  },
+  {
+   "word": "ikpeazụ",
+   "in_english": "last"
+  },
+  {
+   "word": "ka",
+   "in_english": "let"
+  },
+  {
+   "word": "chere",
+   "in_english": "thought"
+  },
+  {
+   "word": "obodo",
+   "in_english": "city"
+  },
+  {
+   "word": "osisi",
+   "in_english": "tree"
+  },
+  {
+   "word": "ịgafe",
+   "in_english": "cross"
+  },
+  {
+   "word": "ugbo",
+   "in_english": "farm"
+  },
+  {
+   "word": "ike",
+   "in_english": "hard"
+  },
+  {
+   "word": "mmalite",
+   "in_english": "start"
+  },
+  {
+   "word": "ike",
+   "in_english": "might"
+  },
+  {
+   "word": "akụkọ",
+   "in_english": "story"
+  },
+  {
+   "word": "ikwo",
+   "in_english": "saw"
+  },
+  {
+   "word": "anya",
+   "in_english": "far"
+  },
+  {
+   "word": "osimiri",
+   "in_english": "sea"
+  },
+  {
+   "word": "ise",
+   "in_english": "draw"
+  },
+  {
+   "word": "ekpe",
+   "in_english": "left"
+  },
+  {
+   "word": "oge",
+   "in_english": "late"
+  },
+  {
+   "word": "omume",
+   "in_english": "run"
+  },
+  {
+   "word": "emela",
+   "in_english": "don’t"
+  },
+  {
+   "word": "ebe",
+   "in_english": "while"
+  },
+  {
+   "word": "akuko",
+   "in_english": "press"
+  },
+  {
+   "word": "nso",
+   "in_english": "close"
+  },
+  {
+   "word": "abalị",
+   "in_english": "night"
+  },
+  {
+   "word": "n’ezie",
+   "in_english": "real"
+  },
+  {
+   "word": "ndụ",
+   "in_english": "life"
+  },
+  {
+   "word": "ole na ole",
+   "in_english": "few"
+  },
+  {
+   "word": "ugwu",
+   "in_english": "north"
+  },
+  {
+   "word": "akwụkwọ",
+   "in_english": "book"
+  },
+  {
+   "word": "ebu",
+   "in_english": "carry"
+  },
+  {
+   "word": "were",
+   "in_english": "took"
+  },
+  {
+   "word": "sayensị",
+   "in_english": "science"
+  },
+  {
+   "word": "eri",
+   "in_english": "eat"
+  },
+  {
+   "word": "ụlọ",
+   "in_english": "room"
+  },
+  {
+   "word": "enyi",
+   "in_english": "friend"
+  },
+  {
+   "word": "malitere",
+   "in_english": "began"
+  },
+  {
+   "word": "echiche",
+   "in_english": "idea"
+  },
+  {
+   "word": "azụ",
+   "in_english": "fish"
+  },
+  {
+   "word": "ugwu",
+   "in_english": "mountain"
+  },
+  {
+   "word": "kwụsị",
+   "in_english": "stop"
+  },
+  {
+   "word": "ozugbo",
+   "in_english": "once"
+  },
+  {
+   "word": "isi",
+   "in_english": "base"
+  },
+  {
+   "word": "hear",
+   "in_english": "hear"
+  },
+  {
+   "word": "ịnyịnya",
+   "in_english": "horse"
+  },
+  {
+   "word": "ịkpụ",
+   "in_english": "cut"
+  },
+  {
+   "word": "hụ",
+   "in_english": "sure"
+  },
+  {
+   "word": "na-ekiri",
+   "in_english": "watch"
+  },
+  {
+   "word": "agba",
+   "in_english": "color"
+  },
+  {
+   "word": "ihu",
+   "in_english": "face"
+  },
+  {
+   "word": "osisi",
+   "in_english": "wood"
+  },
+  {
+   "word": "isi",
+   "in_english": "main"
+  },
+  {
+   "word": "oghe",
+   "in_english": "open"
+  },
+  {
+   "word": "iyi",
+   "in_english": "seem"
+  },
+  {
+   "word": "ọnụ",
+   "in_english": "together"
+  },
+  {
+   "word": "ọzọ",
+   "in_english": "next"
+  },
+  {
+   "word": "ọcha",
+   "in_english": "white"
+  },
+  {
+   "word": "ụmụ",
+   "in_english": "children"
+  },
+  {
+   "word": "na-amalite",
+   "in_english": "begin"
+  },
+  {
+   "word": "wee",
+   "in_english": "got"
+  },
+  {
+   "word": "na-eje ije",
+   "in_english": "walk"
+  },
+  {
+   "word": "atụ",
+   "in_english": "example"
+  },
+  {
+   "word": "mfe",
+   "in_english": "ease"
+  },
+  {
+   "word": "akwụkwọ",
+   "in_english": "paper"
+  },
+  {
+   "word": "otu",
+   "in_english": "group"
+  },
+  {
+   "word": "mgbe nile",
+   "in_english": "always"
+  },
+  {
+   "word": "music",
+   "in_english": "music"
+  },
+  {
+   "word": "ndị",
+   "in_english": "those"
+  },
+  {
+   "word": "ma",
+   "in_english": "both"
+  },
+  {
+   "word": "akara",
+   "in_english": "mark"
+  },
+  {
+   "word": "mgbe",
+   "in_english": "often"
+  },
+  {
+   "word": "ozi",
+   "in_english": "letter"
+  },
+  {
+   "word": "ruo mgbe",
+   "in_english": "until"
+  },
+  {
+   "word": "mile",
+   "in_english": "mile"
+  },
+  {
+   "word": "osimiri",
+   "in_english": "river"
+  },
+  {
+   "word": "ụgbọ ala",
+   "in_english": "car"
+  },
+  {
+   "word": "ụkwụ",
+   "in_english": "feet"
+  },
+  {
+   "word": "nlekọta",
+   "in_english": "care"
+  },
+  {
+   "word": "nke abụọ",
+   "in_english": "second"
+  },
+  {
+   "word": "ezuru",
+   "in_english": "enough"
+  },
+  {
+   "word": "larịị",
+   "in_english": "plain"
+  },
+  {
+   "word": "nwa agbọghọ",
+   "in_english": "girl"
+  },
+  {
+   "word": "na-adị",
+   "in_english": "usual"
+  },
+  {
+   "word": "nwa",
+   "in_english": "young"
+  },
+  {
+   "word": "njikere",
+   "in_english": "ready"
+  },
+  {
+   "word": "n’elu",
+   "in_english": "above"
+  },
+  {
+   "word": "mgbe",
+   "in_english": "ever"
+  },
+  {
+   "word": "acha ọbara ọbara",
+   "in_english": "red"
+  },
+  {
+   "word": "ndepụta",
+   "in_english": "list"
+  },
+  {
+   "word": "ezie",
+   "in_english": "though"
+  },
+  {
+   "word": "na-eche",
+   "in_english": "feel"
+  },
+  {
+   "word": "okwu",
+   "in_english": "talk"
+  },
+  {
+   "word": "nnụnụ",
+   "in_english": "bird"
+  },
+  {
+   "word": "anya",
+   "in_english": "soon"
+  },
+  {
+   "word": "ozu",
+   "in_english": "body"
+  },
+  {
+   "word": "nkịta",
+   "in_english": "dog"
+  },
+  {
+   "word": "ezinụlọ",
+   "in_english": "family"
+  },
+  {
+   "word": "kpọmkwem",
+   "in_english": "direct"
+  },
+  {
+   "word": "abụrụ",
+   "in_english": "pose"
+  },
+  {
+   "word": "ahapụ",
+   "in_english": "leave"
+  },
+  {
+   "word": "song",
+   "in_english": "song"
+  },
+  {
+   "word": "ịlele",
+   "in_english": "measure"
+  },
+  {
+   "word": "ụzọ",
+   "in_english": "door"
+  },
+  {
+   "word": "ngwaahịa",
+   "in_english": "product"
+  },
+  {
+   "word": "ojii",
+   "in_english": "black"
+  },
+  {
+   "word": "obere",
+   "in_english": "short"
+  },
+  {
+   "word": "onuogugu",
+   "in_english": "numeral"
+  },
+  {
+   "word": "otu",
+   "in_english": "class"
+  },
+  {
+   "word": "ifufe",
+   "in_english": "wind"
+  },
+  {
+   "word": "ajụjụ",
+   "in_english": "question"
+  },
+  {
+   "word": "eme",
+   "in_english": "happen"
+  },
+  {
+   "word": "zuru oke",
+   "in_english": "complete"
+  },
+  {
+   "word": "ụgbọ mmiri",
+   "in_english": "ship"
+  },
+  {
+   "word": "mpaghara",
+   "in_english": "area"
+  },
+  {
+   "word": "ọkara",
+   "in_english": "half"
+  },
+  {
+   "word": "nkume",
+   "in_english": "rock"
+  },
+  {
+   "word": "iji",
+   "in_english": "order"
+  },
+  {
+   "word": "ọkụ",
+   "in_english": "fire"
+  },
+  {
+   "word": "ndịda",
+   "in_english": "south"
+  },
+  {
+   "word": "nsogbu",
+   "in_english": "problem"
+  },
+  {
+   "word": "ibe",
+   "in_english": "piece"
+  },
+  {
+   "word": "gwara",
+   "in_english": "told"
+  },
+  {
+   "word": "maara",
+   "in_english": "knew"
+  },
+  {
+   "word": "gafere",
+   "in_english": "pass"
+  },
+  {
+   "word": "ebe",
+   "in_english": "since"
+  },
+  {
+   "word": "top",
+   "in_english": "top"
+  },
+  {
+   "word": "dum",
+   "in_english": "whole"
+  },
+  {
+   "word": "eze",
+   "in_english": "king"
+  },
+  {
+   "word": "n’okporo ámá",
+   "in_english": "street"
+  },
+  {
+   "word": "buru ibu dị sentimita",
+   "in_english": "inch"
+  },
+  {
+   "word": "mụbaa",
+   "in_english": "multiply"
+  },
+  {
+   "word": "ihe",
+   "in_english": "nothing"
+  },
+  {
+   "word": "N’ezie",
+   "in_english": "course"
+  },
+  {
+   "word": "anọ",
+   "in_english": "stay"
+  },
+  {
+   "word": "wheel",
+   "in_english": "wheel"
+  },
+  {
+   "word": "zuru",
+   "in_english": "full"
+  },
+  {
+   "word": "ike",
+   "in_english": "force"
+  },
+  {
+   "word": "acha anụnụ anụnụ",
+   "in_english": "blue"
+  },
+  {
+   "word": "ihe",
+   "in_english": "object"
+  },
+  {
+   "word": "ikpebi",
+   "in_english": "decide"
+  },
+  {
+   "word": "n’elu",
+   "in_english": "surface"
+  },
+  {
+   "word": "miri",
+   "in_english": "deep"
+  },
+  {
+   "word": "ọnwa",
+   "in_english": "moon"
+  },
+  {
+   "word": "agwaetiti",
+   "in_english": "island"
+  },
+  {
+   "word": "ụkwụ",
+   "in_english": "foot"
+  },
+  {
+   "word": "usoro",
+   "in_english": "system"
+  },
+  {
+   "word": "arụsi ọrụ ike",
+   "in_english": "busy"
+  },
+  {
+   "word": "ule",
+   "in_english": "test"
+  },
+  {
+   "word": "ndekọ",
+   "in_english": "record"
+  },
+  {
+   "word": "ụgbọ mmiri",
+   "in_english": "boat"
+  },
+  {
+   "word": "ọsọ",
+   "in_english": "common"
+  },
+  {
+   "word": "ọlaedo",
+   "in_english": "gold"
+  },
+  {
+   "word": "kwere omume",
+   "in_english": "possible"
+  },
+  {
+   "word": "ụgbọelu",
+   "in_english": "plane"
+  },
+  {
+   "word": "itie",
+   "in_english": "stead"
+  },
+  {
+   "word": "akọrọ",
+   "in_english": "dry"
+  },
+  {
+   "word": "na-eche",
+   "in_english": "wonder"
+  },
+  {
+   "word": "ochi",
+   "in_english": "laugh"
+  },
+  {
+   "word": "puku",
+   "in_english": "thousand"
+  },
+  {
+   "word": "gara aga",
+   "in_english": "ago"
+  },
+  {
+   "word": "efehe",
+   "in_english": "ran"
+  },
+  {
+   "word": "ịlele",
+   "in_english": "check"
+  },
+  {
+   "word": "egwuregwu",
+   "in_english": "game"
+  },
+  {
+   "word": "ọdịdị",
+   "in_english": "shape"
+  },
+  {
+   "word": "equate",
+   "in_english": "equate"
+  },
+  {
+   "word": "na-ekpo ọkụ",
+   "in_english": "hot"
+  },
+  {
+   "word": "igafe ihe",
+   "in_english": "miss"
+  },
+  {
+   "word": "ada",
+   "in_english": "brought"
+  },
+  {
+   "word": "okpomọkụ",
+   "in_english": "heat"
+  },
+  {
+   "word": "snow",
+   "in_english": "snow"
+  },
+  {
+   "word": "taya",
+   "in_english": "tire"
+  },
+  {
+   "word": "eme",
+   "in_english": "bring"
+  },
+  {
+   "word": "ee",
+   "in_english": "yes"
+  },
+  {
+   "word": "anya",
+   "in_english": "distant"
+  },
+  {
+   "word": "ju",
+   "in_english": "fill"
+  },
+  {
+   "word": "n’ebe ọwụwa anyanwụ",
+   "in_english": "east"
+  },
+  {
+   "word": "agba",
+   "in_english": "paint"
+  },
+  {
+   "word": "asụsụ",
+   "in_english": "language"
+  },
+  {
+   "word": "n’etiti",
+   "in_english": "among"
+  },
+  {
+   "word": "unit",
+   "in_english": "unit"
+  },
+  {
+   "word": "ike",
+   "in_english": "power"
+  },
+  {
+   "word": "obodo",
+   "in_english": "town"
+  },
+  {
+   "word": "mma",
+   "in_english": "fine"
+  },
+  {
+   "word": "ụfọdụ",
+   "in_english": "certain"
+  },
+  {
+   "word": "ofufe",
+   "in_english": "fly"
+  },
+  {
+   "word": "ada",
+   "in_english": "fall"
+  },
+  {
+   "word": "mbu",
+   "in_english": "lead"
+  },
+  {
+   "word": "mkpu",
+   "in_english": "cry"
+  },
+  {
+   "word": "gbara ọchịchịrị",
+   "in_english": "dark"
+  },
+  {
+   "word": "igwe",
+   "in_english": "machine"
+  },
+  {
+   "word": "dee",
+   "in_english": "note"
+  },
+  {
+   "word": "chere",
+   "in_english": "wait"
+  },
+  {
+   "word": "atụmatụ",
+   "in_english": "plan"
+  },
+  {
+   "word": "ọnụ ọgụgụ",
+   "in_english": "figure"
+  },
+  {
+   "word": "kpakpando",
+   "in_english": "star"
+  },
+  {
+   "word": "igbe",
+   "in_english": "box"
+  },
+  {
+   "word": "aha",
+   "in_english": "noun"
+  },
+  {
+   "word": "ubi",
+   "in_english": "field"
+  },
+  {
+   "word": "ike",
+   "in_english": "rest"
+  },
+  {
+   "word": "ziri ezi",
+   "in_english": "correct"
+  },
+  {
+   "word": "ike",
+   "in_english": "able"
+  },
+  {
+   "word": "paụnd",
+   "in_english": "pound"
+  },
+  {
+   "word": "eme",
+   "in_english": "done"
+  },
+  {
+   "word": "ịma mma",
+   "in_english": "beauty"
+  },
+  {
+   "word": "mbanye",
+   "in_english": "drive"
+  },
+  {
+   "word": "guzoro",
+   "in_english": "stood"
+  },
+  {
+   "word": "nwere",
+   "in_english": "contain"
+  },
+  {
+   "word": "n’ihu",
+   "in_english": "front"
+  },
+  {
+   "word": "na-akụziri",
+   "in_english": "teach"
+  },
+  {
+   "word": "izu",
+   "in_english": "week"
+  },
+  {
+   "word": "ikpeazụ",
+   "in_english": "final"
+  },
+  {
+   "word": "nyere",
+   "in_english": "gave"
+  },
+  {
+   "word": "akwụkwọ ndụ akwụkwọ ndụ",
+   "in_english": "green"
+  },
+  {
+   "word": "na na na oh",
+   "in_english": "oh"
+  },
+  {
+   "word": "ngwa ngwa",
+   "in_english": "quick"
+  },
+  {
+   "word": "imepe",
+   "in_english": "develop"
+  },
+  {
+   "word": "oké osimiri",
+   "in_english": "ocean"
+  },
+  {
+   "word": "na-ekpo ọkụ",
+   "in_english": "warm"
+  },
+  {
+   "word": "free",
+   "in_english": "free"
+  },
+  {
+   "word": "nkeji",
+   "in_english": "minute"
+  },
+  {
+   "word": "ike",
+   "in_english": "strong"
+  },
+  {
+   "word": "pụrụ iche",
+   "in_english": "special"
+  },
+  {
+   "word": "uche",
+   "in_english": "mind"
+  },
+  {
+   "word": "n’azụ",
+   "in_english": "behind"
+  },
+  {
+   "word": "doro anya",
+   "in_english": "clear"
+  },
+  {
+   "word": "ọdụ",
+   "in_english": "tail"
+  },
+  {
+   "word": "mepụta",
+   "in_english": "produce"
+  },
+  {
+   "word": "N’eziokwu",
+   "in_english": "fact"
+  },
+  {
+   "word": "ohere",
+   "in_english": "space"
+  },
+  {
+   "word": "nụrụ",
+   "in_english": "heard"
+  },
+  {
+   "word": "mma",
+   "in_english": "best"
+  },
+  {
+   "word": "awa",
+   "in_english": "hour"
+  },
+  {
+   "word": "mma",
+   "in_english": "better"
+  },
+  {
+   "word": "ezi",
+   "in_english": "true"
+  },
+  {
+   "word": "n’oge",
+   "in_english": "during"
+  },
+  {
+   "word": "narị",
+   "in_english": "hundred"
+  },
+  {
+   "word": "ise",
+   "in_english": "five"
+  },
+  {
+   "word": "na-echeta",
+   "in_english": "remember"
+  },
+  {
+   "word": "nzọụkwụ",
+   "in_english": "step"
+  },
+  {
+   "word": "n’isi",
+   "in_english": "early"
+  },
+  {
+   "word": "jide",
+   "in_english": "hold"
+  },
+  {
+   "word": "n’ebe ọdịda anyanwụ",
+   "in_english": "west"
+  },
+  {
+   "word": "n’ala",
+   "in_english": "ground"
+  },
+  {
+   "word": "mmasị",
+   "in_english": "interest"
+  },
+  {
+   "word": "iru",
+   "in_english": "reach"
+  },
+  {
+   "word": "ngwa-ngwa",
+   "in_english": "fast"
+  },
+  {
+   "word": "ngwaa",
+   "in_english": "verb"
+  },
+  {
+   "word": "na-abụ abụ",
+   "in_english": "sing"
+  },
+  {
+   "word": "ntị",
+   "in_english": "listen"
+  },
+  {
+   "word": "isii",
+   "in_english": "six"
+  },
+  {
+   "word": "okpokoro",
+   "in_english": "table"
+  },
+  {
+   "word": "njem",
+   "in_english": "travel"
+  },
+  {
+   "word": "Mpekarị",
+   "in_english": "less"
+  },
+  {
+   "word": "ụtụtụ",
+   "in_english": "morning"
+  },
+  {
+   "word": "iri",
+   "in_english": "ten"
+  },
+  {
+   "word": "mfe",
+   "in_english": "simple"
+  },
+  {
+   "word": "ọtụtụ",
+   "in_english": "several"
+  },
+  {
+   "word": "ụdaume",
+   "in_english": "vowel"
+  },
+  {
+   "word": "n’ebe",
+   "in_english": "toward"
+  },
+  {
+   "word": "agha",
+   "in_english": "war"
+  },
+  {
+   "word": "dina",
+   "in_english": "lay"
+  },
+  {
+   "word": "megide",
+   "in_english": "against"
+  },
+  {
+   "word": "ụkpụrụ",
+   "in_english": "pattern"
+  },
+  {
+   "word": "ngwa",
+   "in_english": "slow"
+  },
+  {
+   "word": "ebe",
+   "in_english": "center"
+  },
+  {
+   "word": "n’anya",
+   "in_english": "love"
+  },
+  {
+   "word": "onye",
+   "in_english": "person"
+  },
+  {
+   "word": "ego",
+   "in_english": "money"
+  },
+  {
+   "word": "ozi",
+   "in_english": "serve"
+  },
+  {
+   "word": "iyi",
+   "in_english": "appear"
+  },
+  {
+   "word": "okporo ụzọ",
+   "in_english": "road"
+  },
+  {
+   "word": "map",
+   "in_english": "map"
+  },
+  {
+   "word": "mmiri ozuzo",
+   "in_english": "rain"
+  },
+  {
+   "word": "ọchịchị",
+   "in_english": "rule"
+  },
+  {
+   "word": "akara",
+   "in_english": "govern"
+  },
+  {
+   "word": "Dọọ",
+   "in_english": "pull"
+  },
+  {
+   "word": "oyi",
+   "in_english": "cold"
+  },
+  {
+   "word": "mara",
+   "in_english": "notice"
+  },
+  {
+   "word": "olu",
+   "in_english": "voice"
+  },
+  {
+   "word": "ike",
+   "in_english": "energy"
+  },
+  {
+   "word": "ichu nta",
+   "in_english": "hunt"
+  },
+  {
+   "word": "puru omume",
+   "in_english": "probable"
+  },
+  {
+   "word": "bed",
+   "in_english": "bed"
+  },
+  {
+   "word": "nwanne",
+   "in_english": "brother"
+  },
+  {
+   "word": "akwa",
+   "in_english": "egg"
+  },
+  {
+   "word": "na-agba ịnyịnya",
+   "in_english": "ride"
+  },
+  {
+   "word": "cell",
+   "in_english": "cell"
+  },
+  {
+   "word": "kwere",
+   "in_english": "believe"
+  },
+  {
+   "word": "ikekwe",
+   "in_english": "perhaps"
+  },
+  {
+   "word": "bulie",
+   "in_english": "pick"
+  },
+  {
+   "word": "mberede",
+   "in_english": "sudden"
+  },
+  {
+   "word": "ịgụ",
+   "in_english": "count"
+  },
+  {
+   "word": "square",
+   "in_english": "square"
+  },
+  {
+   "word": "ihe",
+   "in_english": "reason"
+  },
+  {
+   "word": "ogologo",
+   "in_english": "length"
+  },
+  {
+   "word": "na-anọchite anya",
+   "in_english": "represent"
+  },
+  {
+   "word": "nkà",
+   "in_english": "art"
+  },
+  {
+   "word": "isiokwu",
+   "in_english": "subject"
+  },
+  {
+   "word": "mpaghara",
+   "in_english": "region"
+  },
+  {
+   "word": "size",
+   "in_english": "size"
+  },
+  {
+   "word": "iche iche",
+   "in_english": "vary"
+  },
+  {
+   "word": "dozie",
+   "in_english": "settle"
+  },
+  {
+   "word": "na-ekwu okwu",
+   "in_english": "speak"
+  },
+  {
+   "word": "arọ",
+   "in_english": "weight"
+  },
+  {
+   "word": "n’ozuzu",
+   "in_english": "general"
+  },
+  {
+   "word": "ice",
+   "in_english": "ice"
+  },
+  {
+   "word": "okwu",
+   "in_english": "matter"
+  },
+  {
+   "word": "gburugburu",
+   "in_english": "circle"
+  },
+  {
+   "word": "ụzọ",
+   "in_english": "pair"
+  },
+  {
+   "word": "na-agụnye",
+   "in_english": "include"
+  },
+  {
+   "word": "ike",
+   "in_english": "divide"
+  },
+  {
+   "word": "nkeji okwu",
+   "in_english": "syllable"
+  },
+  {
+   "word": "chere",
+   "in_english": "felt"
+  },
+  {
+   "word": "akwa",
+   "in_english": "grand"
+  },
+  {
+   "word": "bọl",
+   "in_english": "ball"
+  },
+  {
+   "word": "ma",
+   "in_english": "yet"
+  },
+  {
+   "word": "ife",
+   "in_english": "wave"
+  },
+  {
+   "word": "dobe",
+   "in_english": "drop"
+  },
+  {
+   "word": "obi",
+   "in_english": "heart"
+  },
+  {
+   "word": "m",
+   "in_english": "am"
+  },
+  {
+   "word": "ugbu a",
+   "in_english": "present"
+  },
+  {
+   "word": "arọ",
+   "in_english": "heavy"
+  },
+  {
+   "word": "agba egwú",
+   "in_english": "dance"
+  },
+  {
+   "word": "engine",
+   "in_english": "engine"
+  },
+  {
+   "word": "ọnọdụ",
+   "in_english": "position"
+  },
+  {
+   "word": "ogwe aka",
+   "in_english": "arm"
+  },
+  {
+   "word": "n’obosara",
+   "in_english": "wide"
+  },
+  {
+   "word": "na-akwọpụ",
+   "in_english": "sail"
+  },
+  {
+   "word": "ihe",
+   "in_english": "material"
+  },
+  {
+   "word": "akụkụ",
+   "in_english": "fraction"
+  },
+  {
+   "word": "ọhịa",
+   "in_english": "forest"
+  },
+  {
+   "word": "ọdụ",
+   "in_english": "sit"
+  },
+  {
+   "word": "agbụrụ",
+   "in_english": "race"
+  },
+  {
+   "word": "windo",
+   "in_english": "window"
+  },
+  {
+   "word": "ụlọ ahịa",
+   "in_english": "store"
+  },
+  {
+   "word": "n’oge okpomọkụ",
+   "in_english": "summer"
+  },
+  {
+   "word": "ụgbọ",
+   "in_english": "train"
+  },
+  {
+   "word": "ụra",
+   "in_english": "sleep"
+  },
+  {
+   "word": "gosi",
+   "in_english": "prove"
+  },
+  {
+   "word": "nanị",
+   "in_english": "lone"
+  },
+  {
+   "word": "ụkwụ",
+   "in_english": "leg"
+  },
+  {
+   "word": "mmega",
+   "in_english": "exercise"
+  },
+  {
+   "word": "mgbidi",
+   "in_english": "wall"
+  },
+  {
+   "word": "gbutere",
+   "in_english": "catch"
+  },
+  {
+   "word": "n’ugwu",
+   "in_english": "mount"
+  },
+  {
+   "word": "chọrọ",
+   "in_english": "wish"
+  },
+  {
+   "word": "elu-igwe",
+   "in_english": "sky"
+  },
+  {
+   "word": "osisi",
+   "in_english": "board"
+  },
+  {
+   "word": "ọṅụ",
+   "in_english": "joy"
+  },
+  {
+   "word": "oyi",
+   "in_english": "winter"
+  },
+  {
+   "word": "nọdụ",
+   "in_english": "sat"
+  },
+  {
+   "word": "dere",
+   "in_english": "written"
+  },
+  {
+   "word": "anụ ọhịa",
+   "in_english": "wild"
+  },
+  {
+   "word": "ngwá",
+   "in_english": "instrument"
+  },
+  {
+   "word": "na-",
+   "in_english": "kept"
+  },
+  {
+   "word": "iko",
+   "in_english": "glass"
+  },
+  {
+   "word": "ahịhịa",
+   "in_english": "grass"
+  },
+  {
+   "word": "ehi",
+   "in_english": "cow"
+  },
+  {
+   "word": "ọrụ",
+   "in_english": "job"
+  },
+  {
+   "word": "ihu",
+   "in_english": "edge"
+  },
+  {
+   "word": "ịrịba ama",
+   "in_english": "sign"
+  },
+  {
+   "word": "nleta",
+   "in_english": "visit"
+  },
+  {
+   "word": "n’oge gara aga",
+   "in_english": "past"
+  },
+  {
+   "word": "nro",
+   "in_english": "soft"
+  },
+  {
+   "word": "ọchị",
+   "in_english": "fun"
+  },
+  {
+   "word": "enwu enwu,",
+   "in_english": "bright"
+  },
+  {
+   "word": "gas",
+   "in_english": "gas"
+  },
+  {
+   "word": "ihu igwe",
+   "in_english": "weather"
+  },
+  {
+   "word": "ọnwa",
+   "in_english": "month"
+  },
+  {
+   "word": "nde",
+   "in_english": "million"
+  },
+  {
+   "word": "agba",
+   "in_english": "bear"
+  },
+  {
+   "word": "n’isi",
+   "in_english": "finish"
+  },
+  {
+   "word": "obi ụtọ",
+   "in_english": "happy"
+  },
+  {
+   "word": "nwere olileanya",
+   "in_english": "hope"
+  },
+  {
+   "word": "ifuru",
+   "in_english": "flower"
+  },
+  {
+   "word": "uwe",
+   "in_english": "clothe"
+  },
+  {
+   "word": "iche",
+   "in_english": "strange"
+  },
+  {
+   "word": "gawara",
+   "in_english": "gone"
+  },
+  {
+   "word": "ọrụ",
+   "in_english": "trade"
+  },
+  {
+   "word": "Abụ olu ụtọ",
+   "in_english": "melody"
+  },
+  {
+   "word": "njem",
+   "in_english": "trip"
+  },
+  {
+   "word": "ọrụ",
+   "in_english": "office"
+  },
+  {
+   "word": "enweta",
+   "in_english": "receive"
+  },
+  {
+   "word": "n’ahịrị",
+   "in_english": "row"
+  },
+  {
+   "word": "ọnụ",
+   "in_english": "mouth"
+  },
+  {
+   "word": "kpọmkwem",
+   "in_english": "exact"
+  },
+  {
+   "word": "akara",
+   "in_english": "symbol"
+  },
+  {
+   "word": "anwụ",
+   "in_english": "die"
+  },
+  {
+   "word": "dịkarịa ala,",
+   "in_english": "least"
+  },
+  {
+   "word": "nsogbu",
+   "in_english": "trouble"
+  },
+  {
+   "word": "tie mkpu",
+   "in_english": "shout"
+  },
+  {
+   "word": "ma e wezụga",
+   "in_english": "except"
+  },
+  {
+   "word": "dere",
+   "in_english": "wrote"
+  },
+  {
+   "word": "mkpụrụ",
+   "in_english": "seed"
+  },
+  {
+   "word": "olu",
+   "in_english": "tone"
+  },
+  {
+   "word": "sonyere",
+   "in_english": "join"
+  },
+  {
+   "word": "na-atụ aro",
+   "in_english": "suggest"
+  },
+  {
+   "word": "dị ọcha",
+   "in_english": "clean"
+  },
+  {
+   "word": "nkwụsịtụ",
+   "in_english": "break"
+  },
+  {
+   "word": "nwanyị",
+   "in_english": "lady"
+  },
+  {
+   "word": "na-aza èzí",
+   "in_english": "yard"
+  },
+  {
+   "word": "bilie",
+   "in_english": "rise"
+  },
+  {
+   "word": "ọjọọ",
+   "in_english": "bad"
+  },
+  {
+   "word": "igbu",
+   "in_english": "blow"
+  },
+  {
+   "word": "mmanụ",
+   "in_english": "oil"
+  },
+  {
+   "word": "ọbara",
+   "in_english": "blood"
+  },
+  {
+   "word": "metụ",
+   "in_english": "touch"
+  },
+  {
+   "word": "na-eto",
+   "in_english": "grew"
+  },
+  {
+   "word": "pasent",
+   "in_english": "cent"
+  },
+  {
+   "word": "mix",
+   "in_english": "mix"
+  },
+  {
+   "word": "otu",
+   "in_english": "team"
+  },
+  {
+   "word": "izipu",
+   "in_english": "wire"
+  },
+  {
+   "word": "na-eri",
+   "in_english": "cost"
+  },
+  {
+   "word": "furu efu",
+   "in_english": "lost"
+  },
+  {
+   "word": "na agba aja aja",
+   "in_english": "brown"
+  },
+  {
+   "word": "eyi",
+   "in_english": "wear"
+  },
+  {
+   "word": "ubi",
+   "in_english": "garden"
+  },
+  {
+   "word": "hara",
+   "in_english": "equal"
+  },
+  {
+   "word": "zitere",
+   "in_english": "sent"
+  },
+  {
+   "word": "họrọ",
+   "in_english": "choose"
+  },
+  {
+   "word": "dara",
+   "in_english": "fell"
+  },
+  {
+   "word": "kwekọrọ",
+   "in_english": "fit"
+  },
+  {
+   "word": "asọpụta",
+   "in_english": "flow"
+  },
+  {
+   "word": "mma",
+   "in_english": "fair"
+  },
+  {
+   "word": "akụ",
+   "in_english": "bank"
+  },
+  {
+   "word": "na-anakọta",
+   "in_english": "collect"
+  },
+  {
+   "word": "azọpụta",
+   "in_english": "save"
+  },
+  {
+   "word": "akara",
+   "in_english": "control"
+  },
+  {
+   "word": "ntụpọ",
+   "in_english": "decimal"
+  },
+  {
+   "word": "ntị",
+   "in_english": "ear"
+  },
+  {
+   "word": "ọzọ",
+   "in_english": "else"
+  },
+  {
+   "word": "nnọọ",
+   "in_english": "quite"
+  },
+  {
+   "word": "mebiri",
+   "in_english": "broke"
+  },
+  {
+   "word": "ikpe",
+   "in_english": "case"
+  },
+  {
+   "word": "n’etiti",
+   "in_english": "middle"
+  },
+  {
+   "word": "igbu",
+   "in_english": "kill"
+  },
+  {
+   "word": "nwa",
+   "in_english": "son"
+  },
+  {
+   "word": "ọdọ mmiri",
+   "in_english": "lake"
+  },
+  {
+   "word": "oge",
+   "in_english": "moment"
+  },
+  {
+   "word": "n’ọtụtụ na",
+   "in_english": "scale"
+  },
+  {
+   "word": "oké",
+   "in_english": "loud"
+  },
+  {
+   "word": "mmiri",
+   "in_english": "spring"
+  },
+  {
+   "word": "na-edebe",
+   "in_english": "observe"
+  },
+  {
+   "word": "nwa",
+   "in_english": "child"
+  },
+  {
+   "word": "ogologo",
+   "in_english": "straight"
+  },
+  {
+   "word": "mgbochiume",
+   "in_english": "consonant"
+  },
+  {
+   "word": "mba",
+   "in_english": "nation"
+  },
+  {
+   "word": "ọkọwa okwu",
+   "in_english": "dictionary"
+  },
+  {
+   "word": "mmiri ara",
+   "in_english": "milk"
+  },
+  {
+   "word": "ọsọ",
+   "in_english": "speed"
+  },
+  {
+   "word": "usoro",
+   "in_english": "method"
+  },
+  {
+   "word": "ngwa",
+   "in_english": "organ"
+  },
+  {
+   "word": "ịkwụ ụgwọ",
+   "in_english": "pay"
+  },
+  {
+   "word": "afọ",
+   "in_english": "age"
+  },
+  {
+   "word": "ngalaba",
+   "in_english": "section"
+  },
+  {
+   "word": "uwe",
+   "in_english": "dress"
+  },
+  {
+   "word": "ígwé ojii",
+   "in_english": "cloud"
+  },
+  {
+   "word": "anya",
+   "in_english": "surprise"
+  },
+  {
+   "word": "jụụ",
+   "in_english": "quiet"
+  },
+  {
+   "word": "nkume",
+   "in_english": "stone"
+  },
+  {
+   "word": "obere",
+   "in_english": "tiny"
+  },
+  {
+   "word": "ọrịrị",
+   "in_english": "climb"
+  },
+  {
+   "word": "jụụ",
+   "in_english": "cool"
+  },
+  {
+   "word": "imewe",
+   "in_english": "design"
+  },
+  {
+   "word": "ogbenye",
+   "in_english": "poor"
+  },
+  {
+   "word": "ọtụtụ",
+   "in_english": "lot"
+  },
+  {
+   "word": "nnwale",
+   "in_english": "experiment"
+  },
+  {
+   "word": "ike",
+   "in_english": "bottom"
+  },
+  {
+   "word": "igodo",
+   "in_english": "key"
+  },
+  {
+   "word": "ígwè",
+   "in_english": "iron"
+  },
+  {
+   "word": "otu",
+   "in_english": "single"
+  },
+  {
+   "word": "mkpisi",
+   "in_english": "stick"
+  },
+  {
+   "word": "larịị",
+   "in_english": "flat"
+  },
+  {
+   "word": "iri abụọ na",
+   "in_english": "twenty"
+  },
+  {
+   "word": "akpụkpọ",
+   "in_english": "skin"
+  },
+  {
+   "word": "ọchị",
+   "in_english": "smile"
+  },
+  {
+   "word": "ahịrị",
+   "in_english": "crease"
+  },
+  {
+   "word": "oghere",
+   "in_english": "hole"
+  },
+  {
+   "word": "na-awụlikwa elu",
+   "in_english": "jump"
+  },
+  {
+   "word": "nwa",
+   "in_english": "baby"
+  },
+  {
+   "word": "asatọ",
+   "in_english": "eight"
+  },
+  {
+   "word": "obodo",
+   "in_english": "village"
+  },
+  {
+   "word": "zukoro",
+   "in_english": "meet"
+  },
+  {
+   "word": "mgbọrọgwụ",
+   "in_english": "root"
+  },
+  {
+   "word": "ịzụta",
+   "in_english": "buy"
+  },
+  {
+   "word": "bulie",
+   "in_english": "raise"
+  },
+  {
+   "word": "idozi",
+   "in_english": "solve"
+  },
+  {
+   "word": "ígwè",
+   "in_english": "metal"
+  },
+  {
+   "word": "ma",
+   "in_english": "whether"
+  },
+  {
+   "word": "Kwaa",
+   "in_english": "push"
+  },
+  {
+   "word": "asaa",
+   "in_english": "seven"
+  },
+  {
+   "word": "paragraf",
+   "in_english": "paragraph"
+  },
+  {
+   "word": "atọ",
+   "in_english": "third"
+  },
+  {
+   "word": "ga-",
+   "in_english": "shall"
+  },
+  {
+   "word": "mkpọrọgwụ",
+   "in_english": "held"
+  },
+  {
+   "word": "ntutu isi",
+   "in_english": "hair"
+  },
+  {
+   "word": "kọwaa",
+   "in_english": "describe"
+  },
+  {
+   "word": "isi nri",
+   "in_english": "cook"
+  },
+  {
+   "word": "ebe",
+   "in_english": "floor"
+  },
+  {
+   "word": "ma",
+   "in_english": "either"
+  },
+  {
+   "word": "N’ihi",
+   "in_english": "result"
+  },
+  {
+   "word": "ọkụ",
+   "in_english": "burn"
+  },
+  {
+   "word": "ugwu",
+   "in_english": "hill"
+  },
+  {
+   "word": "nchebe",
+   "in_english": "safe"
+  },
+  {
+   "word": "pusi",
+   "in_english": "cat"
+  },
+  {
+   "word": "na narị afọ",
+   "in_english": "century"
+  },
+  {
+   "word": "tụlee",
+   "in_english": "consider"
+  },
+  {
+   "word": "ụdị",
+   "in_english": "type"
+  },
+  {
+   "word": "iwu",
+   "in_english": "law"
+  },
+  {
+   "word": "bit",
+   "in_english": "bit"
+  },
+  {
+   "word": "n’ụsọ oké osimiri",
+   "in_english": "coast"
+  },
+  {
+   "word": "akwụkwọ",
+   "in_english": "copy"
+  },
+  {
+   "word": "okwu",
+   "in_english": "phrase"
+  },
+  {
+   "word": "nkịtị",
+   "in_english": "silent"
+  },
+  {
+   "word": "ogologo",
+   "in_english": "tall"
+  },
+  {
+   "word": "aja",
+   "in_english": "sand"
+  },
+  {
+   "word": "ala",
+   "in_english": "soil"
+  },
+  {
+   "word": "mpịakọta",
+   "in_english": "roll"
+  },
+  {
+   "word": "ọnọdụ okpomọkụ",
+   "in_english": "temperature"
+  },
+  {
+   "word": "aka",
+   "in_english": "finger"
+  },
+  {
+   "word": "ụlọ ọrụ",
+   "in_english": "industry"
+  },
+  {
+   "word": "uru",
+   "in_english": "value"
+  },
+  {
+   "word": "agha",
+   "in_english": "fight"
+  },
+  {
+   "word": "ụgha",
+   "in_english": "lie"
+  },
+  {
+   "word": "uda",
+   "in_english": "beat"
+  },
+  {
+   "word": "ejikere",
+   "in_english": "excite"
+  },
+  {
+   "word": "eke",
+   "in_english": "natural"
+  },
+  {
+   "word": "ele",
+   "in_english": "view"
+  },
+  {
+   "word": "uche",
+   "in_english": "sense"
+  },
+  {
+   "word": "isi obodo",
+   "in_english": "capital"
+  },
+  {
+   "word": "agaghị",
+   "in_english": "won’t"
+  },
+  {
+   "word": "oche",
+   "in_english": "chair"
+  },
+  {
+   "word": "Ihe egwu",
+   "in_english": "danger"
+  },
+  {
+   "word": "mkpụrụ",
+   "in_english": "fruit"
+  },
+  {
+   "word": "ọgaranya",
+   "in_english": "rich"
+  },
+  {
+   "word": "oké",
+   "in_english": "thick"
+  },
+  {
+   "word": "agha",
+   "in_english": "soldier"
+  },
+  {
+   "word": "usoro",
+   "in_english": "process"
+  },
+  {
+   "word": "ọrụ",
+   "in_english": "operate"
+  },
+  {
+   "word": "omume",
+   "in_english": "practice"
+  },
+  {
+   "word": "iche iche",
+   "in_english": "separate"
+  },
+  {
+   "word": "ike",
+   "in_english": "difficult"
+  },
+  {
+   "word": "dọkịta",
+   "in_english": "doctor"
+  },
+  {
+   "word": "biko",
+   "in_english": "please"
+  },
+  {
+   "word": "chebe",
+   "in_english": "protect"
+  },
+  {
+   "word": "ehihie",
+   "in_english": "noon"
+  },
+  {
+   "word": "ọkụkụ",
+   "in_english": "crop"
+  },
+  {
+   "word": "n’oge a",
+   "in_english": "modern"
+  },
+  {
+   "word": "mmewere",
+   "in_english": "element"
+  },
+  {
+   "word": "kụrụ",
+   "in_english": "hit"
+  },
+  {
+   "word": "na-amụrụ",
+   "in_english": "student"
+  },
+  {
+   "word": "n’akụkụ",
+   "in_english": "corner"
+  },
+  {
+   "word": "otu",
+   "in_english": "party"
+  },
+  {
+   "word": "enweta",
+   "in_english": "supply"
+  },
+  {
+   "word": "onye",
+   "in_english": "whose"
+  },
+  {
+   "word": "chọta",
+   "in_english": "locate"
+  },
+  {
+   "word": "mgbanaka",
+   "in_english": "ring"
+  },
+  {
+   "word": "agwa",
+   "in_english": "character"
+  },
+  {
+   "word": "ahụhụ",
+   "in_english": "insect"
+  },
+  {
+   "word": "jidere",
+   "in_english": "caught"
+  },
+  {
+   "word": "oge",
+   "in_english": "period"
+  },
+  {
+   "word": "egosi",
+   "in_english": "indicate"
+  },
+  {
+   "word": "redio",
+   "in_english": "radio"
+  },
+  {
+   "word": "kwuru",
+   "in_english": "spoke"
+  },
+  {
+   "word": "atọm",
+   "in_english": "atom"
+  },
+  {
+   "word": "mmadụ",
+   "in_english": "human"
+  },
+  {
+   "word": "akụkọ ihe mere eme",
+   "in_english": "history"
+  },
+  {
+   "word": "mmetụta",
+   "in_english": "effect"
+  },
+  {
+   "word": "electric",
+   "in_english": "electric"
+  },
+  {
+   "word": "na-atụ anya",
+   "in_english": "expect"
+  },
+  {
+   "word": "ọkpụkpụ",
+   "in_english": "bone"
+  },
+  {
+   "word": "tren",
+   "in_english": "rail"
+  },
+  {
+   "word": "iche",
+   "in_english": "imagine"
+  },
+  {
+   "word": "nye",
+   "in_english": "provide"
+  },
+  {
+   "word": "ekweta",
+   "in_english": "agree"
+  },
+  {
+   "word": "N’ihi ya,",
+   "in_english": "thus"
+  },
+  {
+   "word": "nwayọọ",
+   "in_english": "gentle"
+  },
+  {
+   "word": "nwanyị",
+   "in_english": "woman"
+  },
+  {
+   "word": "onyeisi",
+   "in_english": "captain"
+  },
+  {
+   "word": "maa amụma",
+   "in_english": "guess"
+  },
+  {
+   "word": "dị mkpa",
+   "in_english": "necessary"
+  },
+  {
+   "word": "nkọ",
+   "in_english": "sharp"
+  },
+  {
+   "word": "nku",
+   "in_english": "wing"
+  },
+  {
+   "word": "ike",
+   "in_english": "create"
+  },
+  {
+   "word": "agbata obi",
+   "in_english": "neighbor"
+  },
+  {
+   "word": "na-asacha",
+   "in_english": "wash"
+  },
+  {
+   "word": "ụsụ",
+   "in_english": "bat"
+  },
+  {
+   "word": "kama",
+   "in_english": "rather"
+  },
+  {
+   "word": "ìgwè mmadụ",
+   "in_english": "crowd"
+  },
+  {
+   "word": "ọka",
+   "in_english": "corn"
+  },
+  {
+   "word": "tụnyere",
+   "in_english": "compare"
+  },
+  {
+   "word": "abụ",
+   "in_english": "poem"
+  },
+  {
+   "word": "eriri",
+   "in_english": "string"
+  },
+  {
+   "word": "mgbịrịgba",
+   "in_english": "bell"
+  },
+  {
+   "word": "na-adabere",
+   "in_english": "depend"
+  },
+  {
+   "word": "anụ",
+   "in_english": "meat"
+  },
+  {
+   "word": "ite",
+   "in_english": "rub"
+  },
+  {
+   "word": "tube",
+   "in_english": "tube"
+  },
+  {
+   "word": "ama",
+   "in_english": "famous"
+  },
+  {
+   "word": "dollar",
+   "in_english": "dollar"
+  },
+  {
+   "word": "mmiri",
+   "in_english": "stream"
+  },
+  {
+   "word": "egwu",
+   "in_english": "fear"
+  },
+  {
+   "word": "n’anya",
+   "in_english": "sight"
+  },
+  {
+   "word": "tara",
+   "in_english": "thin"
+  },
+  {
+   "word": "triangle",
+   "in_english": "triangle"
+  },
+  {
+   "word": "na mbara ala",
+   "in_english": "planet"
+  },
+  {
+   "word": "ọsọ ọsọ",
+   "in_english": "hurry"
+  },
+  {
+   "word": "isi",
+   "in_english": "chief"
+  },
+  {
+   "word": "ógbè",
+   "in_english": "colony"
+  },
+  {
+   "word": "elekere",
+   "in_english": "clock"
+  },
+  {
+   "word": "m",
+   "in_english": "mine"
+  },
+  {
+   "word": "tie",
+   "in_english": "tie"
+  },
+  {
+   "word": "banye",
+   "in_english": "enter"
+  },
+  {
+   "word": "isi",
+   "in_english": "major"
+  },
+  {
+   "word": "ọhụrụ",
+   "in_english": "fresh"
+  },
+  {
+   "word": "search",
+   "in_english": "search"
+  },
+  {
+   "word": "iziga",
+   "in_english": "send"
+  },
+  {
+   "word": "acha odo odo",
+   "in_english": "yellow"
+  },
+  {
+   "word": "égbè",
+   "in_english": "gun"
+  },
+  {
+   "word": "ekwe",
+   "in_english": "allow"
+  },
+  {
+   "word": "ebipụta",
+   "in_english": "print"
+  },
+  {
+   "word": "nwụrụ anwụ",
+   "in_english": "dead"
+  },
+  {
+   "word": "ebe",
+   "in_english": "spot"
+  },
+  {
+   "word": "desert",
+   "in_english": "desert"
+  },
+  {
+   "word": "ekike",
+   "in_english": "suit"
+  },
+  {
+   "word": "ugbu a",
+   "in_english": "current"
+  },
+  {
+   "word": "ebulinwu",
+   "in_english": "lift"
+  },
+  {
+   "word": "bilie",
+   "in_english": "rose"
+  },
+  {
+   "word": "na-abata",
+   "in_english": "arrive"
+  },
+  {
+   "word": "ukwu",
+   "in_english": "master"
+  },
+  {
+   "word": "akara",
+   "in_english": "track"
+  },
+  {
+   "word": "nne na nna",
+   "in_english": "parent"
+  },
+  {
+   "word": "n’ikperé mmiri",
+   "in_english": "shore"
+  },
+  {
+   "word": "nkewa",
+   "in_english": "division"
+  },
+  {
+   "word": "akwụkwọ",
+   "in_english": "sheet"
+  },
+  {
+   "word": "umi",
+   "in_english": "substance"
+  },
+  {
+   "word": "amara",
+   "in_english": "favor"
+  },
+  {
+   "word": "ijikọ",
+   "in_english": "connect"
+  },
+  {
+   "word": "post",
+   "in_english": "post"
+  },
+  {
+   "word": "na-eji",
+   "in_english": "spend"
+  },
+  {
+   "word": "mmagba",
+   "in_english": "chord"
+  },
+  {
+   "word": "abụba",
+   "in_english": "fat"
+  },
+  {
+   "word": "obi ụtọ na",
+   "in_english": "glad"
+  },
+  {
+   "word": "mbụ",
+   "in_english": "original"
+  },
+  {
+   "word": "òkè",
+   "in_english": "share"
+  },
+  {
+   "word": "ebe",
+   "in_english": "station"
+  },
+  {
+   "word": "papa",
+   "in_english": "dad"
+  },
+  {
+   "word": "nri",
+   "in_english": "bread"
+  },
+  {
+   "word": "ana",
+   "in_english": "charge"
+  },
+  {
+   "word": "kwesịrị ekwesị",
+   "in_english": "proper"
+  },
+  {
+   "word": "mmanya",
+   "in_english": "bar"
+  },
+  {
+   "word": "enye",
+   "in_english": "offer"
+  },
+  {
+   "word": "agba",
+   "in_english": "segment"
+  },
+  {
+   "word": "ohu",
+   "in_english": "slave"
+  },
+  {
+   "word": "ọbọgwụ",
+   "in_english": "duck"
+  },
+  {
+   "word": "ozugbo",
+   "in_english": "instant"
+  },
+  {
+   "word": "ahịa",
+   "in_english": "market"
+  },
+  {
+   "word": "n’ókè",
+   "in_english": "degree"
+  },
+  {
+   "word": "populate",
+   "in_english": "populate"
+  },
+  {
+   "word": "chick",
+   "in_english": "chick"
+  },
+  {
+   "word": "ezigbo",
+   "in_english": "dear"
+  },
+  {
+   "word": "onye iro",
+   "in_english": "enemy"
+  },
+  {
+   "word": "zaghachi",
+   "in_english": "reply"
+  },
+  {
+   "word": "ọṅụṅụ",
+   "in_english": "drink"
+  },
+  {
+   "word": "ime",
+   "in_english": "occur"
+  },
+  {
+   "word": "nkwado",
+   "in_english": "support"
+  },
+  {
+   "word": "okwu",
+   "in_english": "speech"
+  },
+  {
+   "word": "agwa",
+   "in_english": "nature"
+  },
+  {
+   "word": "iche",
+   "in_english": "range"
+  },
+  {
+   "word": "uzuoku",
+   "in_english": "steam"
+  },
+  {
+   "word": "ngagharị",
+   "in_english": "motion"
+  },
+  {
+   "word": "ụzọ",
+   "in_english": "path"
+  },
+  {
+   "word": "mmiri",
+   "in_english": "liquid"
+  },
+  {
+   "word": "banye",
+   "in_english": "log"
+  },
+  {
+   "word": "pụtara",
+   "in_english": "meant"
+  },
+  {
+   "word": "quotient",
+   "in_english": "quotient"
+  },
+  {
+   "word": "ezé",
+   "in_english": "teeth"
+  },
+  {
+   "word": "iheesereese",
+   "in_english": "shell"
+  },
+  {
+   "word": "olu",
+   "in_english": "neck"
+  },
+  {
+   "word": "oxygen",
+   "in_english": "oxygen"
+  },
+  {
+   "word": "sugar",
+   "in_english": "sugar"
+  },
+  {
+   "word": "ọnwụ",
+   "in_english": "death"
+  },
+  {
+   "word": "mara mma",
+   "in_english": "pretty"
+  },
+  {
+   "word": "nkà",
+   "in_english": "skill"
+  },
+  {
+   "word": "inyom",
+   "in_english": "women"
+  },
+  {
+   "word": "n’oge",
+   "in_english": "season"
+  },
+  {
+   "word": "ngwọta",
+   "in_english": "solution"
+  },
+  {
+   "word": "ndọta",
+   "in_english": "magnet"
+  },
+  {
+   "word": "ọlaọcha",
+   "in_english": "silver"
+  },
+  {
+   "word": "na-ekele",
+   "in_english": "thank"
+  },
+  {
+   "word": "alaka ụlọ ọrụ",
+   "in_english": "branch"
+  },
+  {
+   "word": "egwuregwu",
+   "in_english": "match"
+  },
+  {
+   "word": "suffix",
+   "in_english": "suffix"
+  },
+  {
+   "word": "karịsịa",
+   "in_english": "especially"
+  },
+  {
+   "word": "fig",
+   "in_english": "fig"
+  },
+  {
+   "word": "egwu",
+   "in_english": "afraid"
+  },
+  {
+   "word": "nnukwu",
+   "in_english": "huge"
+  },
+  {
+   "word": "nwanne nwaanyị",
+   "in_english": "sister"
+  },
+  {
+   "word": "nchara",
+   "in_english": "steel"
+  },
+  {
+   "word": "tụlee",
+   "in_english": "discuss"
+  },
+  {
+   "word": "anya",
+   "in_english": "forward"
+  },
+  {
+   "word": "yiri",
+   "in_english": "similar"
+  },
+  {
+   "word": "na-eduzi",
+   "in_english": "guide"
+  },
+  {
+   "word": "ahụmahụ",
+   "in_english": "experience"
+  },
+  {
+   "word": "akara",
+   "in_english": "score"
+  },
+  {
+   "word": "apụl",
+   "in_english": "apple"
+  },
+  {
+   "word": "zụta",
+   "in_english": "bought"
+  },
+  {
+   "word": "dugara",
+   "in_english": "led"
+  },
+  {
+   "word": "pitch",
+   "in_english": "pitch"
+  },
+  {
+   "word": "uwe",
+   "in_english": "coat"
+  },
+  {
+   "word": "uka",
+   "in_english": "mass"
+  },
+  {
+   "word": "kaadị",
+   "in_english": "card"
+  },
+  {
+   "word": "gbalaga",
+   "in_english": "band"
+  },
+  {
+   "word": "eriri",
+   "in_english": "rope"
+  },
+  {
+   "word": "ego",
+   "in_english": "slip"
+  },
+  {
+   "word": "imeri",
+   "in_english": "win"
+  },
+  {
+   "word": "nrọ",
+   "in_english": "dream"
+  },
+  {
+   "word": "mgbede",
+   "in_english": "evening"
+  },
+  {
+   "word": "ọnọdụ",
+   "in_english": "condition"
+  },
+  {
+   "word": "ndepụta",
+   "in_english": "feed"
+  },
+  {
+   "word": "ngwá ọrụ",
+   "in_english": "tool"
+  },
+  {
+   "word": "mkpokọta",
+   "in_english": "total"
+  },
+  {
+   "word": "isi",
+   "in_english": "basic"
+  },
+  {
+   "word": "ísì",
+   "in_english": "smell"
+  },
+  {
+   "word": "na ndagwurugwu",
+   "in_english": "valley"
+  },
+  {
+   "word": "ma ọ bụ",
+   "in_english": "nor"
+  },
+  {
+   "word": "abụọ",
+   "in_english": "double"
+  },
+  {
+   "word": "oche",
+   "in_english": "seat"
+  },
+  {
+   "word": "na-",
+   "in_english": "continue"
+  },
+  {
+   "word": "gbochie",
+   "in_english": "block"
+  },
+  {
+   "word": "chart",
+   "in_english": "chart"
+  },
+  {
+   "word": "okpu",
+   "in_english": "hat"
+  },
+  {
+   "word": "ere",
+   "in_english": "sell"
+  },
+  {
+   "word": "ịga nke ọma",
+   "in_english": "success"
+  },
+  {
+   "word": "ụlọ ọrụ",
+   "in_english": "company"
+  },
+  {
+   "word": "iwepu wepu",
+   "in_english": "subtract"
+  },
+  {
+   "word": "ihe",
+   "in_english": "event"
+  },
+  {
+   "word": "karịsịa",
+   "in_english": "particular"
+  },
+  {
+   "word": "ihe",
+   "in_english": "deal"
+  },
+  {
+   "word": "igwu",
+   "in_english": "swim"
+  },
+  {
+   "word": "okwu",
+   "in_english": "term"
+  },
+  {
+   "word": "abụghị",
+   "in_english": "opposite"
+  },
+  {
+   "word": "nwunye",
+   "in_english": "wife"
+  },
+  {
+   "word": "akpụkpọ ụkwụ",
+   "in_english": "shoe"
+  },
+  {
+   "word": "ubu",
+   "in_english": "shoulder"
+  },
+  {
+   "word": "na-agbasa",
+   "in_english": "spread"
+  },
+  {
+   "word": "ndokwa",
+   "in_english": "arrange"
+  },
+  {
+   "word": "mara ụlọikwuu",
+   "in_english": "camp"
+  },
+  {
+   "word": "dịrị",
+   "in_english": "invent"
+  },
+  {
+   "word": "na owu",
+   "in_english": "cotton"
+  },
+  {
+   "word": "keomumu",
+   "in_english": "born"
+  },
+  {
+   "word": "chọpụta",
+   "in_english": "determine"
+  },
+  {
+   "word": "quart",
+   "in_english": "quart"
+  },
+  {
+   "word": "itoolu",
+   "in_english": "nine"
+  },
+  {
+   "word": "gwongworo",
+   "in_english": "truck"
+  },
+  {
+   "word": "mkpọtụ",
+   "in_english": "noise"
+  },
+  {
+   "word": "larịị",
+   "in_english": "level"
+  },
+  {
+   "word": "ohere",
+   "in_english": "chance"
+  },
+  {
+   "word": "akpọkọta",
+   "in_english": "gather"
+  },
+  {
+   "word": "ụlọ ahịa",
+   "in_english": "shop"
+  },
+  {
+   "word": "gbatia",
+   "in_english": "stretch"
+  },
+  {
+   "word": "otutu",
+   "in_english": "throw"
+  },
+  {
+   "word": "na-enwu",
+   "in_english": "shine"
+  },
+  {
+   "word": "onwunwe",
+   "in_english": "property"
+  },
+  {
+   "word": "na kọlụm",
+   "in_english": "column"
+  },
+  {
+   "word": "molekul",
+   "in_english": "molecule"
+  },
+  {
+   "word": "họrọ",
+   "in_english": "select"
+  },
+  {
+   "word": "njọ",
+   "in_english": "wrong"
+  },
+  {
+   "word": "isi awọ",
+   "in_english": "gray"
+  },
+  {
+   "word": "megharịa",
+   "in_english": "repeat"
+  },
+  {
+   "word": "chọrọ",
+   "in_english": "require"
+  },
+  {
+   "word": "sara mbara",
+   "in_english": "broad"
+  },
+  {
+   "word": "kwadebe",
+   "in_english": "prepare"
+  },
+  {
+   "word": "nnu",
+   "in_english": "salt"
+  },
+  {
+   "word": "imi",
+   "in_english": "nose"
+  },
+  {
+   "word": "otutu",
+   "in_english": "plural"
+  },
+  {
+   "word": "iwe",
+   "in_english": "anger"
+  },
+  {
+   "word": "mgbarakwa",
+   "in_english": "claim"
+  },
+  {
+   "word": "kọntinent",
+   "in_english": "continent"
+  }
+ ]
+}

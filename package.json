@@ -1,22 +1,34 @@
 {
-    "name": "quizapp-v.0.5",
+    "name": "knowing-app",
     "version": "0.5.0",
-    "description": "MEAN stack Quiz App V0.5",
+    "description": "Gamified learning platform",
     "main": "server.js",
     "scripts": {
         "test": "node test",
         "start": "node server"
     },
-    "author": "Csaba S. Todor",
-    "license": "ISC",
+    "author": "Geoffrey Nwachukwu",
+    "license": "Copyright 2019, All rights reserved",
     "dependencies": {
-        "express": "4.15.3",
-        "body-parser": "1.17.2",
-        "cors": "2.8.3",
-        "mongoose": "4.10.7"
+        "async": "^3.1.0",
+        "bcrypt": "^3.0.6",
+        "bcryptjs": "^2.4.3",
+        "body-parser": "^1.17.2",
+        "cors": "^2.8.3",
+        "express": "^4.15.3",
+        "express-flash": "0.0.2",
+        "jsonwebtoken": "^8.5.1",
+        "mongoose": "^4.10.7",
+        "morgan": "^1.9.1",
+        "node-pre-gyp": "^0.13.0",
+        "nodemailer": "^6.3.0",
+        "passport": "^0.4.0",
+        "passport-facebook": "^3.0.0",
+        "passport-jwt": "^4.0.0",
+        "validator": "^10.9.0"
     },
     "repository": {
         "type": "git",
-        "url": "git://github.com/cstodor/QuizApp.git"
+        "url": "https://sandgrouse@bitbucket.org/edginess/web-app.git"
     }
 }
