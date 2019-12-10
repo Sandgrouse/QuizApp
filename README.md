@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # A gamified learning platform
 Knowing app is built with a collection of JavaScript based technologies from Client to Server to Database.
 This repository contains the code for a RESTful API that was built using the MEAN stack:
@@ -57,3 +58,11 @@ This project is proprietary and confidential
 Written by Geoffrey Nwachukwu <geoffrey.nwachuk@gmail.com>, September 2019
  
 
+=======
+# A simple Application
+App is built with a collection of JavaScript based technologies from Client to Server to Database.
+
+
+
+
+>>>>>>> 0e6929d3850a6d04d30d60b3a7079a300473952c
